@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 💬 All of my Data Certifications are available at this [Google Drive Link](https://drive.google.com/drive/folders/1H7z5uB8anKAaGtfrmpcdw6aYoHZ17nqG)
 - 📫 How to reach me: **send me a message on  my [LinkedIn Profile](https://www.linkedin.com/in/jazzmin-washington/)**
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: **I have a passion for neuroscience research and have a degree in both Neuropharmacology and Neuropathology**
+- ⚡ Fun fact: **I am fluent in American Sign Language and have become immersed with deaf culture in Washington D.C. when I did my undergraduate there. I still have tons of deaf friends that I FaceTime and have even served as an interpreter at some deaf events**
 ------------------------------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3><a href = "https://www.linkedin.com/in/jazzmin-washington/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Jazzmin Washington" height ="40" width="40"/></a>
   
