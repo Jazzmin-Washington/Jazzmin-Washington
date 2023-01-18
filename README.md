@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Facebook Marketplace's Recommendation System]( https://github.com/Jazzmin-Washington/Facebook-Recommendation-Ranking)
 - 🌱 I’m currently learning **SQL Programming**
-- 🤔 You can view my CV/Resume:[Jazzmin Washington](https://github.com/Jazzmin-Washington/Jazzmin-Washington/files/10451233/Jazzmin_Washington_CV_DataScience_2023.docx)
+- 🤔 You can view my CV/Resume:[Jazzmin Washington](https://github.com/Jazzmin-Washington/Jazzmin-Washington/files/10451709/Jazzmin_Washington_CV_DataScience_2023.docx)
+
 - 💬 All of my Data Certifications are available at this [Google Drive Link](https://drive.google.com/drive/folders/1H7z5uB8anKAaGtfrmpcdw6aYoHZ17nqG)
 - 📫 How to reach me: **send me a message on  my [LinkedIn Profile](https://www.linkedin.com/in/jazzmin-washington/)**
 - 😄 Pronouns: She/Her
