@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on using Digital Signal Processing to evaluate Heart Rate and Respiration Rate at <a href = "electronrx.com" target="blank" align="center"><img src="https://www.p4precisionmedicine.co.uk/wp-content/uploads/2022/01/2021-electronRx-Logo.png" alt="electronRx" height = 30, width = 120/>
 - 🌱 I’m currently learning: **Full Stack Engineering through CodeFirstGirls and The ODIN Project** 
-<a href = "https://codefirstgirls.com/" target="blank" align="center"><img src = "https://codefirstgirls.com/wp-content/uploads/elementor/thumbs/White-Code-First-Girls-Logo-Transparent-p75th7g47zmtuf6o6zuyna1izwc77lixwo6bygc4gk.png" alt ="CodeFirstGirls" height = 80, width = 80/> <a href = "https://www.theodinproject.com/" target="blank" align="center"><img src = "https://www.skillfinder.com.au/media/wysiwyg/the-odin-project-logo-skill-finder-partners-page.png" alt ="CodeFirstGirls" height = 30, width = 150/>
+<a href = "https://codefirstgirls.com/" target="blank" align="center"><img src = "https://codefirstgirls.com/wp-content/uploads/elementor/thumbs/White-Code-First-Girls-Logo-Transparent-p75th7g47zmtuf6o6zuyna1izwc77lixwo6bygc4gk.png" alt ="CodeFirstGirls" height = 80, width = 80/> <a href = "https://www.theodinproject.com/" target="blank" align="center"><img src = "https://avatars.githubusercontent.com/u/4441966?s=280&v=4" alt ="ODIN Project" height = 80, width = 80/>
 
 - 🤔 You can view my CV/Resume:[Jazzmin Washington](https://github.com/Jazzmin-Washington/Jazzmin-Washington/files/10451709/Jazzmin_Washington_CV_DataScience_2023.docx)
 - 💬 All of my Data Certifications are available at this [Google Drive Link](https://drive.google.com/drive/folders/1H7z5uB8anKAaGtfrmpcdw6aYoHZ17nqG)
