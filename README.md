@@ -1,15 +1,12 @@
-<img src="https://miro.medium.com/v2/resize:fit:883/0*-26k_uoUKRiB9mBc.jpg" alt="aws" width="1200" height="300" /></img>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLCGWbgaOKgMT-tu5DGnSRppqqCm_vSL4OA&usqp=CAU" alt="aws" width="1000" height="200" /></img>
 
 
 
 <h1 align="center"> Hi there, I'm Jazzmin 👋 </h1>
 <h3 align='center'> An enthusiast in Data Science, Data Engineering, Software Engineering, and Machine Learning technologies </h3>
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on using Digital Signal Processing to evaluate Heart Rate and Respiration Rate at <a href = "electronrx.com" target="blank" align="center"><img src="https://www.p4precisionmedicine.co.uk/wp-content/uploads/2022/01/2021-electronRx-Logo.png" alt="electronRx" height = 30, width = 150/>
-- 🌱 I’m currently learning **Full Stack Engineering through CodeFirstGirls and The ODIN Project**
+- 🌱 I’m currently learning: **Full Stack Engineering through CodeFirstGirls and The ODIN Project**
 <a href = "https://codefirstgirls.com/" target="blank" align="center"><img src = "https://codefirstgirls.com/wp-content/uploads/elementor/thumbs/White-Code-First-Girls-Logo-Transparent-p75th7g47zmtuf6o6zuyna1izwc77lixwo6bygc4gk.png" alt ="CodeFirstGirls" height = 80, width = 80/> <a href = "https://www.theodinproject.com/" target="blank" align="center"><img src = "https://www.skillfinder.com.au/media/wysiwyg/the-odin-project-logo-skill-finder-partners-page.png" alt ="CodeFirstGirls" height = 30, width = 150/>
 
 - 🤔 You can view my CV/Resume:[Jazzmin Washington](https://github.com/Jazzmin-Washington/Jazzmin-Washington/files/10451709/Jazzmin_Washington_CV_DataScience_2023.docx)
