@@ -3,19 +3,19 @@
 
 
 <h1 align="center"> Hi there, I'm Jazzmin 👋 </h1>
-<h3 align='center'> An enthusiast in Data Science, Data Engineering and Machine Learning technologies </h3>
+<h3 align='center'> An enthusiast in Data Science, Data Engineering, Software Engineering and Machine Learning technologies </h3>
 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on using Digital Signal Processing to evaluate Heart Rate and Respiration Rate at <a href = "electronrx.com" target="blank" align="center"><img src="https://www.p4precisionmedicine.co.uk/wp-content/uploads/2022/01/2021-electronRx-Logo.png" alt="electronRx" height = 30, width = 150/>
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Full Stack Engineering through CodeFirstGirls**
 - 🤔 You can view my CV/Resume:[Jazzmin Washington](https://github.com/Jazzmin-Washington/Jazzmin-Washington/files/10451709/Jazzmin_Washington_CV_DataScience_2023.docx)
 
 - 💬 All of my Data Certifications are available at this [Google Drive Link](https://drive.google.com/drive/folders/1H7z5uB8anKAaGtfrmpcdw6aYoHZ17nqG)
 - 📫 How to reach me: **send me a message on  my [LinkedIn Profile](https://www.linkedin.com/in/jazzmin-washington/)**
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: **I am fluent in American Sign Language and have become immersed with deaf culture in Washington D.C. when I did my undergraduate there. I still have tons of deaf friends that I FaceTime and have even served as an interpreter at some deaf events**
+- ⚡ Fun fact: **I am fluent in American Sign Language and have become immersed in deaf culture in Washington D.C. when I did my undergraduate there. I still have tons of deaf friends that I FaceTime and have even served as an interpreter at some deaf events**
 - 💬 I'm always open for a chat so feel free to connect with me
 ------------------------------------------------------------------------------------------
 
@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/5c6b7c7089d3f5332192f7e90af7a60f7b143a18fc16eee6f031b478d74309d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" alt="Tensorflow"/></a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/1f2c2be3d5ab9eed63bfd658f9c465403e409fcfdcb7c133133d0616940c4452/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170616368655f537061726b2d4646464646463f7374796c653d666f722d7468652d6261646765266c6f676f3d617061636865737061726b266c6f676f436f6c6f723d23453335413136" alt="Apache Spark"/></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/4eeaeb09fc028fcaa6ecfde273bb1bcecd6670eec820234eb2d53bc92d93af83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079546f7263682d4545344332433f7374796c653d666f722d7468652d6261646765266c6f676f3d7079746f726368266c6f676f436f6c6f723d7768697465" alt="PyTorch"/></a><p>
-
-
 
 <h3 align="Center"> Visualisation </h3>
 <p align="center"><a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/f3c172bc7b63e52304a6c9c96c51eedf9350d0a816de5988fe23484f7929da2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47726166616e612d4632463446393f7374796c653d666f722d7468652d6261646765266c6f676f3d67726166616e61266c6f676f436f6c6f723d6f72616e6765266c6162656c436f6c6f723d463246344639" alt="grafana" /> </a> 
