@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" height = 60 width = 60 alt="Python"/> </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/r-programming-statistics-computing-data-analysis-256.png" height = 60 width = 60 alt="R-Studio"/></a>
 <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/basic-file-3/64/basic-file-c-256.png" height = 60 width = 60  alt="C++"/></a> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height = 60 width = 60  alt="Javascript"/></a> <p>
-<a href="https://html.com/html5/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" height = 60 width = 60  alt="HTML"/></a> <p>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height = 60 width = 60  alt="Javascript"/></a> 
+<a href="https://html.com/html5/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" height = 60 width = 60  alt="HTML"/></a> 
 <a href="https://css3.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" height = 60 width = 60  alt="HTML"/></a> <p>
 
 <h3 align="Center"> Operating Systems </h3>
