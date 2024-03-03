@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLCGWbgaOKgMT-tu5DGnSRppqqCm_vSL4OA&usqp=CAU" alt="aws" width="1000" height="200" /></img>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLCGWbgaOKgMT-tu5DGnSRppqqCm_vSL4OA&usqp=CAU" alt="aws" width="1200" height="200" /></img>
 
 
 
